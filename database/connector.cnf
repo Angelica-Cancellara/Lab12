@@ -2,5 +2,5 @@
 user=root
 password=root
 host=127.0.0.1
-database=test
+database=go_sales
 raise_on_warnings=True
